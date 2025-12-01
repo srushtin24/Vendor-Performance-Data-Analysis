@@ -24,41 +24,41 @@ It integrates SQL + Python + Visualization + Statistical testing to identify:
 ***2. Top 10 Vendors by Sales***<br>
 
 <p align="center">
-   <img src="2.png" width="550">  
+   <img src="/images/2.png" width="550">  
 </p>
 
 ***3. Top 10 Brands by Sales***
 
 <p align="center">
-   <img src="2.png" width="550">  
+   <img src="/images/3.png" width="550">  
 </p>
 
-***4. Pareto Chart — Vendor Purchase Contribution***
+***4. Vendor Purchase Contribution***
 
 <p align="center">
-   <img src="2.png" width="550">  
+   <img src="/images/4.png" width="550">  
 </p>
 
-***5. Donut Chart — Top Vendor Share***
+***5. Top Vendor Share***
 
 <p align="center">
-   <img src="2.png" width="550">  
+   <img src="/images/5.png" width="550">  
 </p>
 
-***6. Scatter Plot — High-Margin Low-Sales SKUs***
+***6. High-Margin Low-Sales SKUs***
 
 <p align="center">
-   <img src="2.png" width="550">  
+   <img src="/images/6.png" width="550">  
 </p>
 
-***7. Impact of Bulk Purchase on Unit Price (Boxplot)***
+***7. Impact of Bulk Purchase on Unit Price***
 
 <p align="center">
-   <img src="2.png" width="550">  
+   <img src="/images/7.png" width="550">  
 </p>
 
 ***8. Confidence Interval Comparison — Top vs Low Margin Vendors***
 
 <p align="center">
-   <img src="2.png" width="550">  
+   <img src="/images/8.png" width="550">  
 </p>
