@@ -1,11 +1,11 @@
-# Vendor-Performance-Data-Analytics-End-To-End-Project
-***Data Analytics | Python, SQL***
+# Vendor Performance Data Analysis Project
+***Data Analysis | Python, SQL***<br>
 
 - Performed comprehensive data extraction, cleaning, and transformation using SQL, and executed Exploratory Data Analysis (EDA) with Python to identify meaningful trends and patterns.
-- Engineered SQL queries incorporating aggregations and joins to derive actionable insights and support strategic decision-making.
+- Engineered SQL queries incorporating aggregations and joins to derive actionable insights and support strategic decision-making.<br><br>
 
-This project performs in-depth Vendor performance analytics using liquor inventory data.
-It integrates SQL + Python + Visualization + Statistical testing to identify:
+This project performs in-depth Vendor performance analytics using liquor inventory data.<br>
+It integrates SQL + Python + Visualization + Statistical testing to identify:<br>
 
 ✔ Most profitable vendors<br>
 ✔ Vendors with low sales but high margins (ideal for pricing push)<br>
@@ -13,7 +13,7 @@ It integrates SQL + Python + Visualization + Statistical testing to identify:
 ✔ Bulk-order price advantage assessment<br>
 ✔ Top vendors driving 65.7% of total procurement<br>
 ✔ Pricing elasticity & profitability relationships<br>
-✔ Underperforming stock — slow moving products, dead inventory<br>
+✔ Underperforming stock — slow moving products, dead inventory<br><br>
 
 ***1. Correlation Heatmap***<br>
 
