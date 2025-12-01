@@ -18,7 +18,7 @@ It integrates SQL + Python + Visualization + Statistical testing to identify:
 ***1. Correlation Heatmap***<br>
 
 <p align="center">
-   <img src="2.png" width="550">  
+   <img src="/images/1.png" width="550">  
 </p>
 
 ***2. Top 10 Vendors by Sales***<br>
