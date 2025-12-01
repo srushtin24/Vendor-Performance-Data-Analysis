@@ -62,3 +62,14 @@ It integrates SQL + Python + Visualization + Statistical testing to identify:<br
 <p align="center">
    <img src="/images/8.png" width="550">  
 </p>
+
+<br><br>
+💻 ***Highlights***
+
+- Performed large-scale EDA on multi-table inventory & sales database
+- Used SQL joins + aggregations + CTEs to merge purchase, sales & invoice data
+- Implemented data cleaning, type conversions, null handling & feature creation
+- Engineered metrics: GrossProfit, ProfitMargin, StockTurnover, SalesPurchaseRatio
+- Automated workflow using Python functions + logging + ingestion pipeline
+- Visualized KPIs using matplotlib / seaborn (sales distribution, vendor share, margins etc.)
+- Wrote scalable reusable script for ETL + analysis + summary table generation
